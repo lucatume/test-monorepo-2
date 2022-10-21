@@ -1,6 +1,4 @@
 <?php
 /**
- * ${CARET}
- *
- * @since TBD
+ * Plugin Name: Test Monorepo 2
  */
